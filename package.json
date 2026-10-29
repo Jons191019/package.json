@@ -1,0 +1,13 @@
+
+{
+  "name": "advertica-telegram-postback",
+  "version": "1.0.0",
+  "description": "Advertica conversion notifications to Telegram",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
